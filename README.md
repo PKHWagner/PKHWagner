@@ -8,5 +8,5 @@ I love design and front end but my strength showed to be backend. 🙈 🙉 🙊
 My passions are Family 👨‍👩‍👧‍👦, Snowboarding 🏂, Skating 🛹, Soccer ⚽, cooking 🍜 and the enviroment 🐳</br>
 </hr>
 Don't be a stranger, I love meeting new people!
-
+</hr>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,express,figma,flask,github,linkedin,mongodb,mysql,nodejs,postman,py,react,vscode)](https://skillicons.dev)
