@@ -9,4 +9,5 @@ My passions are Family 👨‍👩‍👧‍👦, Snowboarding 🏂, Skating �
 </hr>
 Don't be a stranger, I love meeting new people!
 </hr>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,express,figma,flask,github,linkedin,mongodb,mysql,nodejs,postman,py,react,vscode)](https://skillicons.dev)
